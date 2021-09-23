@@ -1,0 +1,18 @@
+{
+  "id": 6541,
+  "category": {
+    "id": 1,
+    "name": "Dogs"
+  },
+  "name": "PP-dogge",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Dogs"
+    }
+  ],
+  "status": "sold"
+}

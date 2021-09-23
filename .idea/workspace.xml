@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="685c28f5-16d9-467a-b6d4-71bf170966ac" name="Default Changelist" comment="commit1">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/apiConfig/restAssuredConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cucumberService/definitions/CucumberTestDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cucumberService/runner/CucumberRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testBase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/FileHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/featureFiles/bcknd-test.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jsons/changeStatusPetBodyRequest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jsons/newPetBodyRequest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/jsons/petBodyForDelete.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/apiConfig/restAssuredConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cucumberService/definitions/CucumberTestDefinitions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cucumberService/runner/CucumberRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/featureFiles/bcknd-test.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jsons/changeStatusPetBodyRequest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jsons/newPetBodyRequest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jsons/petBodyForDelete.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testBase/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utils/FileHelper.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yVggiPlHGUc0u5ig7Ghv2O7i9J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pawel.plocki\Documents\Programy\GIT_repo\interview\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: delete an existing pet">
+    <configuration name="Feature: bcknd-test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/featureFiles/bcknd-test.feature" />
+      <option name="GLUE" value="cucumberService.definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="interview" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: bcknd-test" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: delete an existing pet" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/featureFiles/bcknd-test.feature" />
+      <option name="GLUE" value="cucumberService.definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="interview" />
+      <option name="NAME_FILTER" value="^delete an existing pet$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^delete an existing pet$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: delete an existing pet" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: delete an existing pet" />
+        <item itemvalue="Cucumber Java.Feature: bcknd-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\pawel.plocki\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="685c28f5-16d9-467a-b6d4-71bf170966ac" name="Default Changelist" comment="" />
+      <created>1632342285140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632342285140</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="commit1" />
+    <MESSAGE value="commit again" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit again" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1208" y="344" key="#Notifications" timestamp="1632345506772">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1208" y="344" key="#Notifications/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632345506772" />
+    <state x="-1480" y="94" key="#Project_Structure" timestamp="1632346303929">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632346303929" />
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1632342710673" />
+    <state x="-1347" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1632343533922">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1347" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632343533922" />
+    <state x="-1162" y="387" key="Github.CreatePullRequestDialog" timestamp="1632346231853">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1162" y="387" key="Github.CreatePullRequestDialog/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632346231853" />
+    <state x="-1082" y="418" key="Github.ShareDialog" timestamp="1632345497665">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1082" y="418" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632345497665" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1632346510018">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632346510018" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1632346510017">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632346510017" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1632346510017">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632346510017" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1632346510017">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632346510017" />
+    <state x="-1459" y="165" key="SettingsEditor" timestamp="1632345855270">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632345855270" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1632346500920">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@-1920.0.1920.1040" timestamp="1632346500920" />
+  </component>
+</project>
