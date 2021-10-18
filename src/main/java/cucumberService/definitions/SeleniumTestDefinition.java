@@ -8,7 +8,9 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import testBase.TestBase;
@@ -27,6 +29,8 @@ public class SeleniumTestDefinition extends TestBase {
     By accountCreationForm = By.id("account-creation_form");
     By customerFirstname = By.id("customer_firstname");
     By customerLastname = By.id("customer_lastname");
+    @FindBy(id = "foobar")
+    WebElement foobar;
 
 
     @Before
@@ -41,6 +45,7 @@ public class SeleniumTestDefinition extends TestBase {
     @Given("the user is on shop's main page {word}")
     public void theUserIsOnShopSMainPageHttpAutomationpracticeComIndexPhp(String url) {
         driver.get(url);
+
     }
 
     @When("click a button for signing in")
@@ -69,10 +74,11 @@ public class SeleniumTestDefinition extends TestBase {
         assertThat(driver.findElement(accountCreationForm).isDisplayed()).isTrue();
     }
 
-    @Given("the user filled in all necessary data in the page for creating an account {word} {word}")
-    public void theUserFilledInAllNecessaryDataInThePageForCreatingAnAccount(String name, String surname) {
+    @Given("the user filled in all necessary data in the page for creating an account {word} {word} {word} {word}")
+    public void theUserFilledInAllNecessaryDataInThePageForCreatingAnAccount(String name, String surname, String password, String w) {
         driver.findElement(customerFirstname).sendKeys(name);
         driver.findElement(customerLastname).sendKeys(surname);
+        String s = password;
     }
 
     @And("submits the data with a button")
@@ -97,11 +103,12 @@ public class SeleniumTestDefinition extends TestBase {
 
     @Then("My account page is displayed")
     public void myAccountPageIsDisplayed() {
+
     }
 
     @And("click create account button")
     public void clickCreateAccountButton() {
-        driver.findElement(By.id("SubmitCreate")).click();
+        driver.findElement(submitCreateButton).click();
     }
 }
 

@@ -23,11 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="685c28f5-16d9-467a-b6d4-71bf170966ac" name="Default Changelist" comment="commit1">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cucumberService/definitions/SeleniumTestDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/featureFiles/front_end.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cucumberService/definitions/SeleniumTestDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cucumberService/definitions/SeleniumTestDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/featureFiles/front_end.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/featureFiles/front_end.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -195,6 +193,14 @@
       <option name="presentableId" value="Default" />
       <updated>1632342285140</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1632425710280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632425710280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,17 +217,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <MESSAGE value="commit1" />
     <MESSAGE value="commit again" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit again" />
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/cucumberService/definitions/SeleniumTestDefinition.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="6" />
+          <line>80</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
